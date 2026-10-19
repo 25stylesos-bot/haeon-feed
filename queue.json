@@ -3,8 +3,8 @@
   "posts": [
     {
       "id": "c01",
-      "date": "",
-      "status": "draft",
+      "date": "2026-10-19",
+      "status": "approved",
       "caption": "2년 고친 집, 오늘부터 문 엽니다. 말차 한 잔은 소매가 마심..\n\n#서촌 #가상인물",
       "images": [
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/01.jpg",
@@ -15,7 +15,7 @@
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/06.jpg",
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/07.jpg"
       ],
-      "note": "첫 캐러셀(편집숍 설정). 10/19 캡션 확정, 이미지 사장님 확인 대기. 승인 시 status=approved + date 지정"
+      "note": "10/19 21:50 사장님 \"지금 올려\" 승인. 즉시 실행"
     },
     {
       "id": "post01",
