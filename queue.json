@@ -4,7 +4,7 @@
     {
       "id": "c01",
       "date": "2026-10-19",
-      "status": "approved",
+      "status": "published",
       "caption": "2년 고친 집, 오늘부터 문 엽니다. 말차 한 잔은 소매가 마심..\n\n#서촌 #가상인물",
       "images": [
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/01.jpg",
@@ -15,7 +15,7 @@
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/06.jpg",
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/07.jpg"
       ],
-      "note": "10/19 21:50 사장님 \"지금 올려\" 승인. 즉시 실행"
+      "note": "10/19 21:51 게시 완료. media id 18110641580267373 (n8n 실행 3182)"
     },
     {
       "id": "post01",
