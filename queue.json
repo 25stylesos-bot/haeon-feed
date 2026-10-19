@@ -2,6 +2,22 @@
   "_guide": "status: draft(대기) / test(게시 직전까지만 시험) / approved(date 날짜에 게시) / published",
   "posts": [
     {
+      "id": "c01",
+      "date": "",
+      "status": "draft",
+      "caption": "2년 고친 집, 오늘부터 문 엽니다. 말차 한 잔은 소매가 마심..\n\n#서촌 #가상인물",
+      "images": [
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/01.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/02.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/03.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/04.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/05.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/06.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/c01/07.jpg"
+      ],
+      "note": "첫 캐러셀(편집숍 설정). 10/19 캡션 확정, 이미지 사장님 확인 대기. 승인 시 status=approved + date 지정"
+    },
+    {
       "id": "post01",
       "date": "",
       "status": "draft",
@@ -15,7 +31,7 @@
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/6.jpg",
         "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/7.jpg"
       ],
-      "note": "10/19 보류(사장님 지시): 배경·빛·보정 재작업 후 재승인"
+      "note": "폐기: 10/19 설정 변경(꽃집→편집숍). c01로 대체. 올리지 않음"
     },
     {
       "id": "post02",
