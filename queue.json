@@ -1,0 +1,41 @@
+{
+  "_guide": "status: draft(대기) / test(게시 직전까지만 시험) / approved(date 날짜에 게시) / published",
+  "posts": [
+    {
+      "id": "post01",
+      "date": "",
+      "status": "test",
+      "caption": "새벽 다섯 시 반.\n올해 마지막 다알리아가 들어왔다.\n가게에 필요한 만큼만 사려 했는데, 트렁크가 먼저 찼다.",
+      "images": [
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/1.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/2.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/3.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post01/4.jpg"
+      ]
+    },
+    {
+      "id": "post02",
+      "date": "",
+      "status": "draft",
+      "caption": "문 열기 전 한 시간.\n이 집에서 제일 조용하고, 제일 좋아하는 시간.\n오늘 첫 다발은 버건디로.",
+      "images": [
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post02/1.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post02/2.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post02/3.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post02/4.jpg"
+      ]
+    },
+    {
+      "id": "post03",
+      "date": "",
+      "status": "draft",
+      "caption": "하루 끝에 남은 꽃은 내 몫.\n팔고 남은 게 아니라, 처음부터 남겨 둔 거다.\n\n오늘 자기 몫으로 뭘 남겨 두셨어요?",
+      "images": [
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post03/1.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post03/2.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post03/3.jpg",
+        "https://raw.githubusercontent.com/25stylesos-bot/haeon-feed/main/posts/post03/4.jpg"
+      ]
+    }
+  ]
+}
